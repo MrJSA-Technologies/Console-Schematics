@@ -1,6 +1,6 @@
-# SNES
+# Nintendo
 
-## Motherboard Revisions
+## SNES
 
 [SNSP-CPU-01(PAL)](https://github.com/MrJSA-Technologies/Console-Schematics/blob/main/NINTENDO/SNES/SNSP-CPU-01(PAL).pdf) for SNSP-CPU-01 PAL, SNSP-CPU-02 PAL
 
